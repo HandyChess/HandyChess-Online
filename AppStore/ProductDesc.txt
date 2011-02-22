@@ -1,0 +1,22 @@
+HandyChess Online Chess is a simple yet powerful iPhone and iPod Touch online chess client. It is designed to be handy for both novices and experienced chess players, it usually takes just three taps to start a new chess game. HandyChess is focused on making things simple, but no simpler than an experienced chess player needs. 
+
+HandyChess uses FICS - Free Internet Chess Server (www.freechess.org). This is the most popular chess server in the Internet with more than 310,000 registered users and at almost any given time more than 1000 people online ready to play with you. There is no problem to find an opponent of your desired level in seconds.
+
+When you seek an opponent, HandyChess gives the option to resume any paused games, then looks for other users that meet your formula.
+
+Features:
+- Only online play, no computer opponents
+- Carefully crafted chessboard that looks like a natural wooden chessboard
+- Clear chess pieces based on the Traveller Standard chess font
+- Easy one-tap connection to chess server
+- Fast and simple game seek mode (two taps in most cases)
+- Ability to challenge your friends and accept their challenges
+- Name, time, last move and rating is always on screen when playing
+- Rematch support, automatic challenge to last opponent with the same settings
+- Options to abort and adjourn games, automatic resume of adjourned games
+- Option to show legal chess moves
+- Simple FICS registration link
+
+HandyChess is based on the powerful Cocos2D graphics library by Ricardo Quesada.
+
+Please contact us if there are suggestions, improvements requests or stability issues, our email is handychess@gmail.com

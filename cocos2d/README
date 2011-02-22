@@ -1,0 +1,58 @@
+cocos2d for iPhone
+------------------
+
+cocos2d for iPhone[1] is a framework for building 2D games, demos, and other
+graphical/interactive applications. It is based on the cocos2d [2] (python)
+design:
+  it uses the same API and design, but instead of using python it uses objective-c.
+
+
+Main features
+    * Scene management (workflow)
+    * Transitions between scenes
+	* Sprites and Sprite Sheets
+	* Effects: Lens, Ripple, Waves, Liquid, etc.
+    * Actions (behaviours): 
+		* Trasformation Actions: Move, Rotate, Scale, Jump, etc.
+		* Composable actions: Sequence, Spawn, Repeat, Reverse
+		* Ease Actions: Exp, Sin, Cubic, etc.
+		* Misc actions: CallFunc, OrbitCamera
+    * Basic menus and buttons
+    * Integrated Chipmunk 2d physics engine
+    * Particle system
+    * Text rendering support
+    * Texture Atlas support
+    * Tile Map support
+	* Parallax scrolling support
+	* High Score server
+    * Touch/Accelerometer support
+    * Portrait and Landscape mode
+    * Integrated Pause/Resume
+    * Supports PowerVR Texture Compression (PVRTC) format
+    * Language: objective-c
+    * Open Source: Compatible with open and closed source projects
+    * OpenGL ES 1.1 based 
+
+Experimental features:
+    * Motion Streak / Ribbon support
+	* Sound Engine support
+
+This library does not work with the toolchain, but it
+should be easy to port it to it.
+
+
+Build Requeriments
+------------------
+
+Mac OS X 10.5.3, Xcode 3.1, iPhone OS 2.0, Beta 8 release or later
+
+
+Runtime Requirements
+--------------------
+
+Mac OS X 10.5.3, iPhone OS 2.0, Beta 8 release or later
+
+
+
+[1] http://code.google.com/p/cocos2d-iphone
+[2] http://www.cocos2d.org
